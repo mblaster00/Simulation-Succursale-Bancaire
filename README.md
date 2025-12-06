@@ -161,13 +161,4 @@ Le projet inclut un diagramme de classes UML créé avec StarUML, illustrant les
 - **Priorité aux rendez-vous** pour les conseillers
 - **Temps de service stochastique** basé sur des distributions probabilistes
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- Signaler des bugs
-- Proposer de nouvelles fonctionnalités
-- Améliorer la documentation
-
----
-
 **Note** : Pour plus de détails sur l'implémentation, consultez le rapport complet (`Rapport.pdf`) inclus dans le dépôt.
