@@ -168,10 +168,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 - Proposer de nouvelles fonctionnalités
 - Améliorer la documentation
 
-## 📄 Licence
-
-Ce projet a été réalisé dans un cadre académique.
-
 ---
 
 **Note** : Pour plus de détails sur l'implémentation, consultez le rapport complet (`Rapport.pdf`) inclus dans le dépôt.
